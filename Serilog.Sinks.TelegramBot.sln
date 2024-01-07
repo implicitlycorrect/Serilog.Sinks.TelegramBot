@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.TelegramBot", "Serilog.Sinks.TelegramBot.csproj", "{0DCBA699-3949-4A00-A6E9-B741C1A5B9E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.TelegramBot", "Serilog.Sinks.TelegramBot\Serilog.Sinks.TelegramBot.csproj", "{0DCBA699-3949-4A00-A6E9-B741C1A5B9E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
